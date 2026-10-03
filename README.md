@@ -1,1 +1,1 @@
-# duo-git-eduardofernanda
+# Projeto Git - Fernanda e Eduardo
